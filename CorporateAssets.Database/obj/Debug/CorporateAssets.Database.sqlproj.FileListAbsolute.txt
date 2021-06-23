@@ -1,0 +1,6 @@
+C:\Users\mark.hamner\source\repos\CorporateAssets.Database\CorporateAssets.Database\bin\Debug\CorporateAssets.Database.dacpac
+C:\Users\mark.hamner\source\repos\CorporateAssets.Database\CorporateAssets.Database\bin\Debug\CorporateAssets.Database.dll
+C:\Users\mark.hamner\source\repos\CorporateAssets.Database\CorporateAssets.Database\bin\Debug\CorporateAssets.Database.pdb
+C:\Users\mark.hamner\source\repos\CorporateAssets.Database\CorporateAssets.Database\obj\Debug\CorporateAssets.Database.sqlprojAssemblyReference.cache
+C:\Users\mark.hamner\source\repos\CorporateAssets.Database\CorporateAssets.Database\obj\Debug\CorporateAssets.Database.dll
+C:\Users\mark.hamner\source\repos\CorporateAssets.Database\CorporateAssets.Database\obj\Debug\CorporateAssets.Database.pdb
